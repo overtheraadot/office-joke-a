@@ -9,9 +9,9 @@ one-line joke about the daily standup / 24-hour sprint ritual to
 
 The joke:
 
-> Our 24-hour sprint has lasted a week: every morning we stand up for
-> fifteen minutes to say 'no blockers,' then spend the day blocked by
-> the meeting itself.
+> Our 24-hour sprint ended last Tuesday, but the 'quick sync' ticket
+> is still in progress — it's been open so long HR offered it a
+> retirement plan.
 
 Run it:
 
